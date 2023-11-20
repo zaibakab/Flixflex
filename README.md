@@ -19,3 +19,5 @@ Node.js app that searches for movies using the TMDB and Mongodb database.
   - `secret` your JWT secret code.
 - `npm install` in the root folder.
 - `node server.js` or `nodemon server.js` in the local folder.
+## swwager UI
+- `http://localhost:9090
